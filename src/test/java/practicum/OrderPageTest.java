@@ -24,7 +24,6 @@ public class OrderPageTest {
     private final String rent;
     private final String color;
     private final String comment;
-    private final String expectedSuccessText = "Заказ оформлен";
     private final String mainTestPageUrl = "https://qa-scooter.praktikum-services.ru";
 
     public OrderPageTest (String name, String surname, String address, String metro,
